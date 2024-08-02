@@ -2,7 +2,6 @@
 import streamlit as st
 from login import  login  #login_form
 import snowflake_connection
-import snowflake.connector
 import pandas as pd
 import bcrypt
 import uuid
