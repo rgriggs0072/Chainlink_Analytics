@@ -1,0 +1,7 @@
+streamlit
+snowflake-connector-python
+pandas
+openpyxl
+pillow
+numpy
+bcrypt
