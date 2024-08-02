@@ -5,3 +5,4 @@ openpyxl
 pillow
 numpy
 bcrypt
+plotly
