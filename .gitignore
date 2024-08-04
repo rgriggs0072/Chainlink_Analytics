@@ -21,7 +21,7 @@ Chainlink_Main_venv/
 *.sln.docstates
 
 # Streamlit
-.streamlit/
+#.streamlit/
 
 # Excel
 *.xlsx
